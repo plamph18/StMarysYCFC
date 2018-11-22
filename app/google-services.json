@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "178610548411",
+    "firebase_url": "https://st-marys-ycfc-database.firebaseio.com",
+    "project_id": "st-marys-ycfc-database",
+    "storage_bucket": "st-marys-ycfc-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178610548411:android:53eb1dfa5c9d4ef2",
+        "android_client_info": {
+          "package_name": "com.example.stmarysycfc.stmarysycfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178610548411-0tbsglnf8ked5mb77vlov4t8kp0933l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stmarysycfc.stmarysycfc",
+            "certificate_hash": "b0895594682020a5f8c743b3b60a0ec5177cb021"
+          }
+        },
+        {
+          "client_id": "178610548411-ib8li394q7o8osn3ajm81trrsijtrvg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stmarysycfc.stmarysycfc",
+            "certificate_hash": "f542d22f0ee77942010ab68205f6e775a25ae236"
+          }
+        },
+        {
+          "client_id": "178610548411-a6kgh29podce28b2c0555fuofi6rj0dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdECKisPf0As9RHErwmlPS5jRp1i_c5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178610548411-a6kgh29podce28b2c0555fuofi6rj0dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
