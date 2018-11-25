@@ -4,9 +4,17 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
 public class MainActivity extends AppCompatActivity {
+    private EditText editText;
+    private Button submitbtn;
+    private FirebaseDatabase firebaseDatabase = FirebaseDatabase.getInstance();
+    private DatabaseReference mRootReferecne = firebaseDatabase.getReference();
     public static final String EXTRA_MESSAGE = "com.exmaple.stmarysycfc.stmarysycfc.MESSAGE";
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "178610548411",
-    "firebase_url": "https://st-marys-ycfc-database.firebaseio.com",
-    "project_id": "st-marys-ycfc-database",
-    "storage_bucket": "st-marys-ycfc-database.appspot.com"
+    "project_number": "141939959519",
+    "firebase_url": "https://st-marys-ycfc.firebaseio.com",
+    "project_id": "st-marys-ycfc",
+    "storage_bucket": "st-marys-ycfc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:178610548411:android:53eb1dfa5c9d4ef2",
+        "mobilesdk_app_id": "1:141939959519:android:53eb1dfa5c9d4ef2",
         "android_client_info": {
           "package_name": "com.example.stmarysycfc.stmarysycfc"
         }
       },
       "oauth_client": [
         {
-          "client_id": "178610548411-0tbsglnf8ked5mb77vlov4t8kp0933l9.apps.googleusercontent.com",
+          "client_id": "141939959519-2bd2jtm8i9ofo1rbop6srod1ccdsk2pa.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.stmarysycfc.stmarysycfc",
@@ -23,21 +23,13 @@
           }
         },
         {
-          "client_id": "178610548411-ib8li394q7o8osn3ajm81trrsijtrvg1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.stmarysycfc.stmarysycfc",
-            "certificate_hash": "f542d22f0ee77942010ab68205f6e775a25ae236"
-          }
-        },
-        {
-          "client_id": "178610548411-a6kgh29podce28b2c0555fuofi6rj0dp.apps.googleusercontent.com",
+          "client_id": "141939959519-gol3i51iimu5l45r6u2v4rrb58oddf87.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCGdECKisPf0As9RHErwmlPS5jRp1i_c5A"
+          "current_key": "AIzaSyCpfVnxQ87O74XYu2HO19fI5BHVOvnydMQ"
         }
       ],
       "services": {
@@ -48,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "178610548411-a6kgh29podce28b2c0555fuofi6rj0dp.apps.googleusercontent.com",
+              "client_id": "141939959519-gol3i51iimu5l45r6u2v4rrb58oddf87.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
